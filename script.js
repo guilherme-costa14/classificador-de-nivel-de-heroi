@@ -1,4 +1,4 @@
-let nomeHeroi = "teste"
+let nomeHeroi = "paradoxo"
 let expHeroi = 10001
 let nivelHeroi = ""
 while (true) {
