@@ -1,7 +1,6 @@
 let nomeHeroi = "paradoxo"
-let expHeroi = 10001
-let nivelHeroi = ""
-while (true) {
+let expHeroi = 8560
+while (expHeroi >= 0) {
     if(expHeroi < 1000){
         nivelHeroi = "Ferro"
         console.log("O Herói de nome " + nomeHeroi + " está no nível de " + nivelHeroi)
